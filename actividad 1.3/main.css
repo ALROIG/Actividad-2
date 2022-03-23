@@ -1,0 +1,33 @@
+h1{
+    color: red!important;
+}
+
+prueba{
+    color: green;
+    border: 1px solid blue;
+}
+
+.altoimagen{
+    height: 500px;
+}
+
+.altoimgcarta{
+    height: 150px;
+}
+
+body{
+    background-color: orangered;
+}
+
+.imglogo{
+    height: 100px;
+    width: auto;
+}
+
+.navcolor:hover{
+    color: gray;
+}
+
+.navfondo{
+    background-color: orange;
+}
