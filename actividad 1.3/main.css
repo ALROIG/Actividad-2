@@ -1,14 +1,15 @@
 h1{
-    color: red!important;
+    color: white;
+    text-align: center;
 }
 
-prueba{
-    color: green;
-    border: 1px solid blue;
+h2{
+    color:rgb(238, 227, 227) ;
+    text-align: center;
 }
 
 .altoimagen{
-    height: 500px;
+    height: 800px;
 }
 
 .altoimgcarta{
@@ -31,3 +32,4 @@ body{
 .navfondo{
     background-color: orange;
 }
+
